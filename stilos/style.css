@@ -52,8 +52,8 @@ section#rede-social img{
 }
 section#rede-social img:hover{
     border: solid 2px rgba(255, 255, 255, 0.521);
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.589);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.671);
     transform: translate(-3px, -3px);
-    transition: transform .5s, border .4s;
+    transition: transform .5s, border .4s, box-shadow .4s;
 }
     
